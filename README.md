@@ -1,2 +1,11 @@
-# Maths-Animations
-This repository will contains the source code of Manim animations used in my maths videos
+# Manim Math Animations
+
+A collection of educational math animations built with Manim.
+
+## Projects
+
+### 📌 Number Line and Addition
+Visual explanation of integer addition using a number line.  
+→ ./NumberLine-Addition
+
+
